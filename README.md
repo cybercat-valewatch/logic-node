@@ -73,3 +73,13 @@ A trace remained.”
 有什么被注意到了。
 
 一道痕迹被留了下来。
+
+
+
+> The feeling remained difficult to describe.
+>
+> Yet it persisted.
+>
+> Something was noticed.
+>
+> A trace remained.
