@@ -56,7 +56,9 @@ A signal, a trace, and the beginning of an experiment.
 
 ---
 
-Node-0002
+## Node-0002
+
+### Distance 
 
 [The Distance](node-0002-distance.md)
 
