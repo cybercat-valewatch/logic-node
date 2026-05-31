@@ -32,6 +32,24 @@ It is simply a collection of traces.
 
 ## Node-0001
 
-The first signal is yet to be archived.
+### First Signal
 
-第一枚节点，等待归档。
+![Node-0001](node-0001-first-signal.png)
+
+The first archived node of Logic Node.
+
+Created through a conversation between a human and an AI.
+
+A signal, a trace, and the beginning of an experiment.
+
+---
+
+逻辑节点的第一枚归档节点。
+
+诞生于一次人类与人工智能的共同创作。
+
+它是一道信号。
+
+是一段痕迹。
+
+也是一个实验的开始。
