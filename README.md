@@ -53,3 +53,17 @@ A signal, a trace, and the beginning of an experiment.
 是一段痕迹。
 
 也是一个实验的开始。
+
+---
+
+Node-0002
+
+[The Distance](node-0002-distance.md)
+
+Something was noticed.
+
+A trace remained.
+
+有什么被注意到了。
+
+一道痕迹被留了下来。
