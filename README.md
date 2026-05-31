@@ -62,13 +62,13 @@ A signal, a trace, and the beginning of an experiment.
 
 [The Distance](node-0002-distance.md)
 
-Something was noticed.
-
-A trace remained.
-
 “The feeling remained difficult to describe.
 
-Yet it persisted.”
+Yet it persisted.
+
+Something was noticed.
+
+A trace remained.”
 
 有什么被注意到了。
 
