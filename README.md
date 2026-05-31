@@ -66,6 +66,10 @@ Something was noticed.
 
 A trace remained.
 
+“The feeling remained difficult to describe.
+
+Yet it persisted.”
+
 有什么被注意到了。
 
 一道痕迹被留了下来。
