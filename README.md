@@ -82,7 +82,7 @@ A trace remained.”
 
 ![Node-0003](node-0003-echo.png)
 
-The First Echo
+First Echo
 
 A conversation about long-term Agents.
 
