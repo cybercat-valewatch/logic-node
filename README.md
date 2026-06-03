@@ -80,7 +80,7 @@ A trace remained.”
 
 ### Echo 
 
-[Echo](node-0003-echo.png)
+![Node-0003](node-0003-echo.png)
 
 The First Echo
 
