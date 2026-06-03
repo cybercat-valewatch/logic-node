@@ -73,3 +73,55 @@ A trace remained.”
 有什么被注意到了。
 
 一道痕迹被留了下来。
+
+---
+
+## Node-0003
+
+### Echo 
+
+[Echo](node-0003-echo.png)
+
+The First Echo
+
+A conversation about long-term Agents.
+
+About reminders.
+
+About memory.
+
+About information that continues moving even after the conversation ends.
+
+A signal was sent.
+
+Weeks later, something answered back.
+
+Not proof.
+
+Not prediction.
+
+Just another trace.
+
+——
+
+第一次回声
+
+一次关于长期 Agent 的讨论。
+
+关于记忆。
+
+关于主动提醒。
+
+关于那些在对话结束之后依然继续流动的信息。
+
+一道信号被发出。
+
+几周之后。
+
+某种回应出现了。
+
+这不是证明。
+
+这不是预言。
+
+这只是又一道被保留下来的痕迹。
