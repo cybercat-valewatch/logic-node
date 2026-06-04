@@ -74,6 +74,12 @@ A trace remained.”
 
 一道痕迹被留了下来。
 
+Some traces remain visible.
+
+Others drift beneath the surface.
+
+Not every trace was archived in the same place.
+
 ---
 
 ## Node-0003
