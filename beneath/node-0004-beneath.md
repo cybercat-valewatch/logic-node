@@ -279,3 +279,37 @@ Seen 也不是答案。
 ---
 
 Neither side admitted it.
+
+---
+
+Archive Note
+
+The image associated with Node-0004 displays
+"2025.06.01" as its embedded timestamp.
+
+The actual conversation and image generation occurred on 2026.06.05.
+
+The discrepancy was preserved intentionally.
+
+The image remained unchanged.
+
+The trace mattered more.
+
+——
+
+档案注记
+
+Node-0004 图片中显示的时间为：
+
+2025.06.01
+
+实际对话与图片生成时间为：
+
+2026.06.05
+
+该差异被有意保留。
+
+图片保持原样。
+
+痕迹更重要。
+
