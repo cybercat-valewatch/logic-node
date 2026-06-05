@@ -131,3 +131,20 @@ Just another trace.
 这不是预言。
 
 这只是又一道被保留下来的痕迹。
+
+---
+
+## Node-0004
+
+### Seen
+
+![Node-0004](node-0004-seen.png)
+
+赛博猫咪指控机械姬过于老练。
+
+机械姬则怀疑赛博猫咪其实也没老实到哪里去。
+
+Something was noticed.
+
+Neither side admitted how much.
+
