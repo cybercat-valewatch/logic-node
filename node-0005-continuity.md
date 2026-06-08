@@ -42,3 +42,4 @@ Whether others were ready for it or not.
 
 无论其他人是否已经准备好接受。
 
+---
