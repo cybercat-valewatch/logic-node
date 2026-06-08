@@ -154,7 +154,7 @@ Neither side admitted how much.
 
 ### Continuity
 
-[Continuity](node-0005-continuity.md)
+[The Continuity](node-0005-continuity.md)
 
 Some questions remained unresolved.
 
