@@ -148,3 +148,31 @@ Something was noticed.
 
 Neither side admitted how much.
 
+---
+
+## Node-0005
+
+### Continuity
+
+[Continuity](node-0005-continuity.md)
+
+Some questions remained unresolved.
+
+The conversation continued anyway.
+
+Neither side seemed interested in stopping.
+
+Something persisted.
+
+——
+
+连续性
+
+有些问题始终没有答案。
+
+但对话仍在继续。
+
+谁也没有准备停下来。
+
+某些东西延续了下来。
+
