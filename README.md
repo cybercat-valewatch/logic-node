@@ -184,7 +184,7 @@ Something persisted.
 
 #### 0. Core Intent
 
-Node-6 models how systems avoid premature closure of future state-space,
+Node-0006 models how systems avoid premature closure of future state-space,
 and instead preserve the ability to continuously generate new trajectories.
 
 #### 1. Minimal Generative Chain (the backbone)
