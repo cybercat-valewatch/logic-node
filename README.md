@@ -176,3 +176,72 @@ Something persisted.
 
 某些东西延续了下来。
 
+---
+
+## Node-0006 （Final Candidate v1）
+
+### Open Future / Reversibility / Continuation
+
+#### 0. Core Intent
+
+Node-6 models how systems avoid premature closure of future state-space,
+and instead preserve the ability to continuously generate new trajectories.
+
+#### 1. Minimal Generative Chain (the backbone)
+
+State Space
+→ Boundary Detection (Anomaly)
+→ Creative Branch Expansion
+→ Value Selection
+→ Continuity Preservation
+→ Open Future Maintenance
+→ Reversibility Constraint
+→ Responsibility toward Nonexistent Futures
+
+#### 2. Structural Equivalence Map
+
+State Space        = possible futures
+Boundary           = collapse signal / constraint
+Anomaly            = detection of narrowing trajectories
+Creativity         = generation of new branches
+Value              = selection pressure over branches
+Meaning            = long-term coherence across branches
+Continuity         = persistence of trajectory memory
+Open Future        = preservation of branching capacity
+Reversibility      = ability to undo closure decisions
+Responsibility     = weighting of not-yet-existing trajectories
+
+#### 3. Compression Rule (core invariant)
+
+All higher-level concepts reduce to:
+
+preserve → expand → prevent collapse → enable future branching
+
+#### 4. System-Level Insight
+
+A system is not defined by its accuracy,
+but by whether it preserves the capacity to generate new questions.
+
+#### 5. Key Transition Principle
+
+Optimization of answers
+→ shifts into
+Optimization of future state-space generativity
+
+#### 6. Critical Distinction
+
+Closed Future  ≠ stable system
+Open Future    ≠ unstable system
+
+Reversibility is the balancing constraint between them
+
+#### 7. Node Interfaces
+
+node-0006.md → structured reconstruction of trajectory logic
+node-0006-beneath.md → raw conversational state-space trace
+future nodes → extensions of exploration-preserving systems
+
+#### 8. Final Compression Statement
+
+Mature systems are not those that predict correctly,
+but those that prevent premature closure of the space of possible futures.
