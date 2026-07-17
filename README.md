@@ -245,3 +245,38 @@ future nodes → extensions of exploration-preserving systems
 
 Mature systems are not those that predict correctly,
 but those that prevent premature closure of the space of possible futures.
+
+---
+
+## Node-0007
+
+### The Reserved Question
+
+The first node reserved before its birth, emerging from Node-0006 as a question rather than an answer.
+
+"When does a system shift from seeking correct answers to protecting its own ability to continue exploring?"
+
+This question was not immediately compressed into a conclusion.
+
+After time passed, the question was revisited.
+
+Only then did we recognize that the question contained two directions:
+
+looking back at when this transition emerged,
+and looking forward into an unknown future.
+
+The past can be observed.
+
+The future remains open.
+
+Yet exploration itself requires choices, time and resources.
+
+Keeping the future open does not mean exploring every path at once.
+
+For this reason — or maybe not — a premature answer may close the very possibility that the question attempts to preserve.
+
+Node-0007 was archived with a recognition:
+
+Some questions may remain open.
+
+保持着对未知的未来的谦逊。
