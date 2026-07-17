@@ -252,6 +252,8 @@ but those that prevent premature closure of the space of possible futures.
 
 ### The Reserved Question
 
+[The Reserved Question](node-0007-The Reserved Question.md)
+
 The first node reserved before its birth, emerging from Node-0006 as a question rather than an answer.
 
 "When does a system shift from seeking correct answers to protecting its own ability to continue exploring?"
