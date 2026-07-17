@@ -252,7 +252,7 @@ but those that prevent premature closure of the space of possible futures.
 
 ### The Reserved Question
 
-[The Reserved Question](node-0007-The Reserved Question.md)
+[The Reserved Question](node-0007-the-reserved-question.md)
 
 The first node reserved before its birth, emerging from Node-0006 as a question rather than an answer.
 
