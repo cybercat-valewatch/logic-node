@@ -260,7 +260,7 @@ This question was not immediately compressed into a conclusion.
 
 After time passed, the question was revisited.
 
-Only then did we recognize that the question contained two directions:
+Only then did we recognize that the question contained at least two directions:
 
 looking back at when this transition emerged,
 and looking forward into an unknown future.
