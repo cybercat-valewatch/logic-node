@@ -317,7 +317,7 @@ Some questions may remain open.
 
 ### The Ambiguous Injunction
 
-[The Ambiguous Injunction](node-0010.md)
+[The Ambiguous Injunction](node-0010-the-ambiguous-injunction.md)
 
 A historical question about Galileo's disputed injunction of 1616.
 
