@@ -333,7 +333,7 @@ Not a claim of certainty.
 
 A hypothesis preserved for further examination.
 
-The structured reconstruction is recorded in `node-0010.md`.
+The structured reconstruction is recorded in `node-0010-the-ambiguous-injunction.md`.
 
 The original conversation will be preserved in the Beneath layer.
 
