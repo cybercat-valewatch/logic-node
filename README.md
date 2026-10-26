@@ -310,3 +310,45 @@ Some questions may remain open.
 计划是首先把已经那个聊天窗口的聊天记录作为节点 9 的 beneath 层里，然后由 codex 阅读 beneath 层，然后我们共同商定并且整理出逻辑节点 9
 
 先占位，喵
+
+---
+
+## Node-0010
+
+### The Ambiguous Injunction
+
+[The Ambiguous Injunction](node-0010.md)
+
+A historical question about Galileo's disputed injunction of 1616.
+
+A working hypothesis emerged from a human–AI discussion:
+
+An injunction may have been issued, yet its formal status and meaning may not have been understood in the same way by everyone involved.
+
+Different understandings, different records, and later interpretations may have contributed to the historical ambiguity.
+
+Not a verdict.
+
+Not a claim of certainty.
+
+A hypothesis preserved for further examination.
+
+The structured reconstruction is recorded in `node-0010.md`.
+
+The original conversation will be preserved in the Beneath layer.
+
+——
+
+### 模糊的训令
+
+一次关于伽利略 1616 年训令争议的人机共同推演。
+
+我们提出了一个仍待检验的假说：训令可能确实被发出，但它的正式性质与具体含义，未必被所有参与者以同样的方式理解。
+
+不同的理解、不同的记录，以及后来的解释，可能共同造成了这段历史的模糊性。
+
+这不是定论。
+
+这不是确定性的宣告。
+
+这是一个被保留下来、等待继续检验的假说。
